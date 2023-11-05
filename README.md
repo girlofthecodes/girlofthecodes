@@ -11,3 +11,17 @@ Aquí mis proyectos favoritos culminados exitosamente:
 - __Giveaway Instagram:__ Sistema que automatiza la participación de un giveaway realizado en instagram, el cual comentara entre un tiempo espaciado cada uno de los usuarios que se proporcionen para que se etiqueten en dicho post, el cuál se debera de indicar. La funcionalidad del proyecto se puede ver en el siguiente enlace: [Giveaway Instagram]()
 
 ### ¿En qué ando? 
+Me encanta poner en práctica mis conocimientos, reforzarlos y ser autodidacta al aprender mejores formas de implementar diferentes funcionalidades e incluso expandir mi conocimiento en las skills que manejo. Por tal, en este momento me encuentro desarrollando los siguientes proyectos: 
+- __e-Commerce:__ Un ERP para una tienda virtual que pueda manejar un comercio dirigido a plantas, accesorios, fertilizantes, tanto para plantas de interior y exterior. Contiene modulos de productos, categorias, compras, entre otros.
+
+### Curiosidades 
+- Me gustan las plantas de interior.
+- Disfruto una buena caminata junto a mi perrito Max.
+- Sin despertador, mi horario biologico es a las 7.
+
+### Contacto
+- [Instagram](https://www.instagram.com/girlofthecodes/)
+- [Linkedin]()
+- [Discord](https://discord.com/channels/@me)
+- [Youtube]()
+_Si tienes algun proyecto y buscas un desarrollador o es de tu interes establecer comunicación conmigo, contáctame en girlofthecodes@hotmail.com_
