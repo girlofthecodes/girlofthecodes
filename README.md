@@ -24,4 +24,5 @@ Me encanta poner en práctica mis conocimientos, reforzarlos y ser autodidacta a
 - [Linkedin]()
 - [Discord](https://discord.com/channels/@me)
 - [Youtube]()
+
 _Si tienes algun proyecto y buscas un desarrollador o es de tu interes establecer comunicación conmigo, contáctame en girlofthecodes@hotmail.com_
