@@ -15,13 +15,12 @@ Me encanta poner en práctica mis conocimientos, reforzarlos y ser autodidacta a
 - __e-Commerce:__ Un ERP para una tienda virtual que pueda manejar un comercio dirigido a plantas, accesorios, fertilizantes, tanto para plantas de interior y exterior. Contiene módulos de productos, categorías, compras, entre otros.
 
 ### Curiosidades 
-- Me gustan las plantas de interior🪻
-- Disfruto una buena caminata junto a mi perrito Max 🐕
-- Sin despertador, mi horario biologico es a las 8 ⏰
+- Alumna de ONE Oracle Next Education Generción 6 - 2024
+- Alumna de CODERHOUSE cursando la carrera de Desarrollador Web. 
 
 ### Contacto
 - [Instagram](https://www.instagram.com/girlofthecodes/)
-- [Linkedin]()
+- [Linkedin](https://www.linkedin.com/in/esmeralda-romero-zenteno-b12b42299/)
 - [Discord](https://discord.com/channels/@me)
 - [Youtube]()
 
