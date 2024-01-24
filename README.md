@@ -16,7 +16,7 @@ Me encanta poner en práctica mis conocimientos, reforzarlos y ser autodidacta a
 
 ### Curiosidades 
 - Alumna de ONE Oracle Next Education Generación 6 - 2024
-- Alumna de CODERHOUSE cursando la carrera de Desarrollador Web. 
+- Alumna de CODERHOUSE Carreraa: Desarrollador Web. 
 
 ### Contacto
 - [Instagram](https://www.instagram.com/girlofthecodes/)
