@@ -15,7 +15,7 @@ Me encanta poner en práctica mis conocimientos, reforzarlos y ser autodidacta a
 - __e-Commerce:__ Un ERP para una tienda virtual que pueda manejar un comercio dirigido a plantas, accesorios, fertilizantes, tanto para plantas de interior y exterior. Contiene módulos de productos, categorías, compras, entre otros.
 
 ### Curiosidades 
-- Alumna de ONE Oracle Next Education Generción 6 - 2024
+- Alumna de ONE Oracle Next Education Generación 6 - 2024
 - Alumna de CODERHOUSE cursando la carrera de Desarrollador Web. 
 
 ### Contacto
